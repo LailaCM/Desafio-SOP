@@ -95,6 +95,11 @@ function calcularDespesas() {
             console.log(estimativaAnual);
         }
 ```
-
+## Integrantes
+|Nome|Número|
+|-|:-:|
+|João Lucas Ribeiro Leite|15|
+|Laila Casadei Macêdo|17|
+|Milena Felisbelo Da Silva|29|
 
 
